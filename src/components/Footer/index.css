@@ -1,0 +1,16 @@
+.card--footer {
+	background: #161619;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 24px;
+	padding: 20px 0;
+	border-radius: 0 0 10px 10px;
+}
+
+.card--footer > a {
+	text-decoration: none;
+}
+.card--footer img {
+	width: 25px;
+}

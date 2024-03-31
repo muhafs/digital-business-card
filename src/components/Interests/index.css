@@ -1,0 +1,15 @@
+.card--interests h3 {
+	font-size: 16px;
+	font-weight: 700;
+	color: #f5f5f5;
+}
+
+.card--interests p {
+	font-size: 10px;
+	font-weight: 400;
+	color: #f5f5f5;
+}
+
+.card--interests {
+	padding: 20px 35px;
+}

@@ -1,0 +1,68 @@
+.card--image {
+	width: 100%;
+	border-radius: 10px 10px 0 0;
+}
+
+.card--text {
+	text-align: center;
+}
+
+.card--text_name {
+	padding-top: 20px;
+	font-size: 25px;
+	font-weight: 700;
+	color: #fff;
+}
+
+.card--text_title {
+	font-size: 12px;
+	font-weight: 400;
+	color: #f3bf99;
+}
+
+.card--text_link {
+	text-decoration: none;
+	font-size: 11px;
+	font-weight: 400;
+	color: #f5f5f5;
+}
+
+.card--button {
+	margin-top: 15px;
+	padding: 0 35px;
+	display: flex;
+	gap: 17px;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.card--button a {
+	height: 34px;
+	width: 115px;
+	border-radius: 6px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 8px;
+	text-decoration: none;
+}
+
+.card--button img {
+	width: 16px;
+}
+
+.card--button_email {
+	background-color: #fff;
+}
+
+.card--button_email span {
+	color: #374151;
+}
+
+.card--button_linkedin {
+	background-color: #5093e2;
+}
+
+.card--button_linkedin span {
+	color: #ffffff;
+}
